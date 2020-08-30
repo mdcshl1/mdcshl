@@ -1,0 +1,6 @@
+flask
+python-telegram-bot
+werkzeug
+gunicorn
+gevent
+requests
